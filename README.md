@@ -1,7 +1,9 @@
 # Calculadora desenvolvida com JavaScript.
 
-✔ Funções
-✔ DOM
+✔ Funções <br>
+✔ DOM <br>
+✔ Lógica <br>
+
 
 <hr>
 
