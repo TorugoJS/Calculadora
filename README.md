@@ -1,8 +1,15 @@
-# Calculadora desenvolvida com JavaScript.
+# Calculadora
 
-✔ Funções <br>
-✔ DOM <br>
-✔ Lógica <br>
+## Mini projeto desenvolvido com JavaScript para uso pessoal.
+
+## Usei:
+
+### ✔ Funções <br>
+### ✔ DOM <br>
+### ✔ Lógica <br>
+### ✔ Estilização com css. <br>
+
+<hr>
 
 
 <hr>
